@@ -8,7 +8,7 @@ import 'package:seventh_flutter_challenge/data/api/videos_api.dart';
 import 'package:seventh_flutter_challenge/data/models/user_token.dart';
 import 'package:seventh_flutter_challenge/data/models/video_url.dart';
 
-import 'api_tests.mocks.dart';
+import 'api_test.mocks.dart';
 
 // Generate a MockDio using the Mockito package.
 // Create new instances of this class in each test.

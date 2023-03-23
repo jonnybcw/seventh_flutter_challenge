@@ -1,4 +1,4 @@
-# Flutter Challenge - Yahoo Finance API
+# Seventh Selection Process - Flutter Challenge
 
 This mobile development technical test is focused on building an application aimed at the video 
 surveillance context and that makes use of an API.
@@ -24,7 +24,7 @@ Challenge developed by Jonny Eduardo Banach on March 23th 2023.
 ### Running the tests
 
 1. Clone the repository on your computer.
-2. Go to the project's root folder in the terminal and enter this command: `flutter test test/unit_test/unit_test.dart`.
+2. Go to the project's root folder in the terminal and enter this command: `flutter test`.
 
 ### Screenshots
 
